@@ -1,4 +1,3 @@
-"# Machine-Learning-and-Computer-vision" 
  *******************************
 *   Delwende Eliane Birba       *
 *           EIT                 *
